@@ -21,4 +21,6 @@ Linklerde olan dosyaları içeri aktarıp istediğinizi kullanın.<br>
 <br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Bass+.EqualizerAPO.GraphicEq.txt">Truthear x Crinacle Zero Blue to Zero RED Bass+ EqualizerAPO GraphicEQ Converter EQ indir / download. (Müzik / Music)</a><br>
 <br>
-
+All work belongs to Oratory1990 and Crinacle.
+<br>
+I just made them easy to download file.
