@@ -34,3 +34,7 @@ Thanks Crinacle and oratory1990.
 <br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.Zero.Blue.to.Kiwi.Ears.KE4.Meta.Tuning.IEF.Comp.EqualizerAPO.Filters.txt">Truthear x Crinacle Zero Blue to Kiwi Ears KE4 (Meta Tuning / IEF Comp) EqualizerAPO GraphicEQ indir / download.</a><br><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.Zero.Blue.to.Kiwi.Ears.KE4.Meta.Tuning.IEF.Comp.Wavelet.Graphic.Filters.txt">Truthear x Crinacle Zero Blue to Kiwi Ears KE4 (Meta Tuning / IEF Comp) Wavelet indir / download.</a><br>
+<br>
+<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.Zero.Blue.to.Kiwi.Ears.KE4.Meta.Tuning.No.IEF.Comp.EqualizerAPO.Filters.txt">Truthear x Crinacle Zero Blue to Kiwi Ears KE4 (Meta Tuning / No IEF Comp) EqualizerAPO GraphicEQ indir / download.</a><br><br>
+<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.Zero.Blue.to.Kiwi.Ears.KE4.Meta.Tuning.No.IEF.Comp.Wavelet.Graphic.Filters.txt">Truthear x Crinacle Zero Blue to Kiwi Ears KE4 (Meta Tuning / No IEF Comp) Wavelet indir / download.</a><br>
+
