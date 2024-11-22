@@ -5,15 +5,16 @@
 Wavelet uygulamasını yükleyin. Ücretsiz sürümü yeterli.<br>
 Kulaklığınız takılıyken Wavelet içinden AutoEq açın.<br>
 AutoEq yazısına tıklayıp, kulaklık modeli ve içeri aktarı takip edin.<br>
-Linklerde olan dosyaları içeri aktarıp istediğinizi kullanın.<br><br>
-<b>Teşekkürler Crinacle ve oratory1990.</b><br>
-<br><br>
+Linklerde olan dosyaları içeri aktarıp istediğinizi kullanın.<br>
+
+$\color{green}{\textsf{Teşekkürler Crinacle ve oratory1990.}}$ <br>
+
 Install the Wavelet application. The free version is sufficient.<br>
 Turn on AutoEq in Wavelet while your headphones are plugged in.<br>
 Click on AutoEq and follow the headphone model and import.<br>
-Import the files in the links and use them as you wish.<br><br>
-<b>Thanks Crinacle and oratory1990.</b>
-<br>
+Import the files in the links and use them as you wish.<br>
+
+$\color{green}{\textsf{Thanks Crinacle and oratory1990.}}$ <br>
 
 # Truthear x Crinacle
 <br><br>
