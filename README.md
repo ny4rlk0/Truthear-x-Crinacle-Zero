@@ -17,7 +17,7 @@ Import the files in the links and use them as you wish.<br><br>
 
 # Truthear x Crinacle
 <br><br>
-<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero-RED/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.Wavelet.GraphicEq.txt">Zero RED to Zero Blue Wavelet 💾</a><br>
+<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.Wavelet.GraphicEq.txt">Zero RED to Zero Blue Wavelet 💾</a><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.EqualizerAPO.ParametricEq.txt">Zero RED to Zero Blue EqualizerAPO Parametric 💾</a><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.EqualizerAPO.GraphicEq.txt">Zero RED to Zero Blue EqualizerAPO GraphicEQ 💾</a><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Wavelet.GraphicEq.txt">Zero Blue to Zero RED Wavelet 💾</a><br>
