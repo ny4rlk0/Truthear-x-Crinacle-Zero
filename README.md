@@ -1,3 +1,6 @@
+<br>
+<a href="https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV"><img src="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/main/spotify.png" alt="Spotify Süzülerek - Gazapizm" style=""></a>
+<br>
 Wavelet uygulamasını yükleyin. Ücretsiz sürümü yeterli.<br>
 Kulaklığınız takılıyken Wavelet içinden AutoEq açın.<br>
 AutoEq yazısına tıklayıp, kulaklık modeli ve içeri aktarı takip edin.<br>
