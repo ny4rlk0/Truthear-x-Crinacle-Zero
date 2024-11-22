@@ -15,7 +15,7 @@ Linklerde olan dosyaları içeri aktarıp istediğinizi kullanın.<br>
 <br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.EqualizerAPO.GraphicEq.txt">Truthear x Crinacle Zero Blue to Zero RED EqualizerAPO GraphicEQ Converter EQ indir / download. (Müzik / Music)</a><br>
 <br>
-<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Bass+.Wavelet.GraphicEq.txt">Truthear x Crinacle Zero Blue to Zero RED Bass+ Wavelet Converter EQ indir / download. (Müzik / Music)</a><br>
+<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Bass+.Wavelet.GraphicEq.txt">Truthear x Crinacle Zero Blue to Zero RED Bass+ Wavelet Converter EQ indir / download. (Müzik / Music)</a><br><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Bass+.EqualizerAPO.ParametricEq.txt">Truthear x Crinacle Zero Blue to Zero RED Bass+ EqualizerAPO ParametricEQ Converter EQ indir / download. (Müzik / Music)</a><br>
 <br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Bass+.EqualizerAPO.GraphicEq.txt">Truthear x Crinacle Zero Blue to Zero RED Bass+ EqualizerAPO GraphicEQ Converter EQ indir / download. (Müzik / Music)</a><br> <br>
