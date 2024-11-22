@@ -2,6 +2,7 @@ Wavelet uygulamasını yükleyin. Ücretsiz sürümü yeterli.<br>
 Kulaklığınız takılıyken Wavelet içinden AutoEq açın.<br>
 AutoEq yazısına tıklayıp, kulaklık modeli ve içeri aktarı takip edin.<br>
 Linklerde olan dosyaları içeri aktarıp istediğinizi kullanın.<br>
+Teşekkürler Crinacle ve oratory1990.<br>
 <br><br>
 Install the Wavelet application. The free version is sufficient.<br>
 Turn on AutoEq in Wavelet while your headphones are plugged in.<br>
