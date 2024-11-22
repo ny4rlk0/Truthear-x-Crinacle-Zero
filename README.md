@@ -22,7 +22,7 @@ $\color{green}{\textsf{Thanks Crinacle and oratory1990.}}$ <br>
 # Truthear x Crinacle
 <br><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.Wavelet.GraphicEq.txt">Zero RED to Zero Blue Wavelet 💾</a><br>
-<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.EqualizerAPO.ParametricEq.txt">Zero RED to Zero Blue EqualizerAPO Parametric 💾</a><br>
+<a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.EqualizerAPO.ParametricEq.txt">Zero RED to Zero Blue EqualizerAPO ParametricEQ 💾</a><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.RED.to.Zero.Blue.EqualizerAPO.GraphicEq.txt">Zero RED to Zero Blue EqualizerAPO GraphicEQ 💾</a><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.Wavelet.GraphicEq.txt">Zero Blue to Zero RED Wavelet 💾</a><br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/Truthear.x.Crinacle.Zero.Blue.to.Zero.RED.EqualizerAPO.ParametricEq.txt">Zero Blue to Zero RED EqualizerAPO ParametricEQ 💾</a><br>
