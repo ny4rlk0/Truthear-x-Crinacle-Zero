@@ -52,5 +52,10 @@ $\color{green}{\textsf{Thanks Crinacle and oratory1990.}}$ <br>
 <a href="https://github.com/ny4rlk0/Truthear-x-Crinacle-Zero/releases/download/release/TruthEar.X.Crinacle.ZERO.Blue.to.Kiwi.Ears.X.HBB.Punch.No.IEF.Comp.Wavelet.Graphic.Filters.txt">Zero Blue to Kiwi Ears X HBB Punch (No IEF Comp) Wavelet 💾</a><br>
 <a href="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/Fiio%20KA15%20-%20Thurthear%20x%20Zero%20Red%20%2B%2010%20Ohm%20Bass%20Adapter.png"><img src="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/Fiio%20KA15%20-%20Thurthear%20x%20Zero%20Red%20%2B%2010%20Ohm%20Bass%20Adapter.png" alt="Fiio KA15" style=""></a>
 <br>
-Fiio KA15 + Truthear Zero Red (EQ Kapalı, Ses Seviyesi 60A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE AÇIK, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)
+# Müzik
+Fiio KA15 + Truthear Zero Red (EQ Kapalı, Ses Seviyesi 50A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE AÇIK, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)<br>
+Truthear Zero Red Müzik ve ASMR için bence iyi değil. Tamam çok kaliteli ses veriyor ama verdiği sesler çok gerçekçi, sıcaklıktan uzak, ASMR'da BASS'ları iyi değil, Akustik olarak kapalı kulaklık olması ASMR'ı katlediyor resmen, çok sıkıcı kulaklık, müzik zevkini kötüleştiriyor resmen. Sadece müziği kaydedildiği gibi sıkıcı ve gerçekçi olarak dinlemek istiyorsanız alın.
+# ASMR
+Fiio KA15 + Apple Earpods 3,5mm (EQ Kapalı, Ses Seviyesi 50A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE KAPALI, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)<br>
+Akustik olarak Yarı açık ya da Tamamen Açık, sıcak sesler veren kulaklıkları tercih edin!
 
