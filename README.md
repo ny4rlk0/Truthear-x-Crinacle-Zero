@@ -59,7 +59,7 @@ Truthear Zero Red Müzik ve ASMR için bence iyi değil. Tamam çok kaliteli ses
 MoonDrop DAWN PRO DAC + Apple Earpods 3,5mm (DAC Ses Seviyesi 70, 32 Bit, 384.000Hz)<br>
 Akustik olarak Yarı açık ya da Tamamen Açık, sıcak sesler veren kulaklıkları tercih edin!<br>
 BASS seviyesi yüksek kulaklıkları tercih edin!<br>
-Dolby Atmos varsa kapat!
+Dolby Atmos ve Ses Geliştirmeleri varsa kapat!
 <img src="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/1.jpg" alt="" style="">
 <img src="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/2.jpg" alt="" style="">
 <img src="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/3.jpg" alt="" style="">
