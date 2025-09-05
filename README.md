@@ -56,7 +56,8 @@ $\color{green}{\textsf{Thanks Crinacle and oratory1990.}}$ <br>
 Fiio KA15 + Truthear Zero Red (EQ Kapalı, Ses Seviyesi 50A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE AÇIK, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)<br>
 Truthear Zero Red Müzik ve ASMR için bence iyi değil. Tamam çok kaliteli ses veriyor ama verdiği sesler çok gerçekçi, sıcaklıktan uzak, ASMR'da BASS'ları iyi değil, Akustik olarak kapalı kulaklık olması ASMR'ı katlediyor resmen, çok sıkıcı kulaklık, müzik zevkini kötüleştiriyor resmen. Sadece müziği kaydedildiği gibi sıkıcı ve gerçekçi olarak dinlemek istiyorsanız alın.
 # ASMR
-MoonDrop DAWN PRO DAC + Apple Earpods 3,5mm (EQ Kapalı, Ses Seviyesi 50A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE KAPALI, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)<br>
+MoonDrop DAWN PRO DAC + Apple Earpods 3,5mm (DAC Ses Seviyesi 70, 32 Bit, 384.000Hz)<br>
 Akustik olarak Yarı açık ya da Tamamen Açık, sıcak sesler veren kulaklıkları tercih edin!<br>
+BASS seviyesi yüksek kulaklıkları tercih edin!<br>
 Dolby Atmos varsa kapat!
 
